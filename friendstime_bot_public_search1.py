@@ -24,8 +24,8 @@ from telegram.ext import (
 )
 
 BOT_TOKEN = "8621917534:AAFzt1OAkymb89KLDeIyndT_4BHFlHtVcdM"
-ADMIN_IDS = {6200142729}
-SUPERADMIN_IDS = {7673695956}    
+ADMIN_IDS = {6200142729, 7312268740, 7673695956, 6581509822, 5822404380}
+SUPERADMIN_IDS = {7673695911}    
 REVIEW_CHAT_IDS = {-1003888708715}       
 DB_NAME = os.path.join(os.path.dirname(__file__), "bot.db")
 START_IMAGE_PATH = os.path.join(os.path.dirname(__file__), "come_home_dating.jpg")
